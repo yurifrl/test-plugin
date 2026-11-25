@@ -1,0 +1,7 @@
+schema = 1
+id = "test-plugin"
+name = "Test Plugin"
+version = "0.1.0"
+description = "Bundle root: installs the foo and bar plugins it ships, and can be installed on its own."
+icon = "puzzle"
+window = "window.luau"

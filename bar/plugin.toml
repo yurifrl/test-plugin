@@ -1,0 +1,7 @@
+schema = 1
+id = "bar"
+name = "Bar"
+version = "0.1.0"
+description = "One of the two plugins bundled with Test Plugin."
+icon = "sparkle"
+window = "window.luau"
